@@ -93,3 +93,6 @@ Proyek ini bertujuan untuk menyediakan rekomendasi film kepada pengguna berdasar
 
 ---
 
+Credit to: [YouTube](https://youtube.com/playlist?list=PLZLuc8eJafeGM6VF3kijsJZBJ9CspQy7x&si=doIgDQCnB-emz7h4).
+
+---
